@@ -1,2 +1,2 @@
-# CypressB-sico
+# CypressBasico
 Testes automatizados com Cypress - (básico) - UDEMY
