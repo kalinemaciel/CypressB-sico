@@ -1,0 +1,25 @@
+{
+  "name": "CypressBasico",
+  "version": "1.0.0",
+  "description": "Testes automatizados com Cypress - (básico) - UDEMY",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open --config watchForFileChanges=false",
+    "cy:run": "cypress run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalinemaciel/CypressBasico.git"
+  },
+  "keywords": [],
+  "author": "Kaline Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalinemaciel/CypressBasico/issues"
+  },
+  "homepage": "https://github.com/kalinemaciel/CypressBasico#readme",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }
+}
